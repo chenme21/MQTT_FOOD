@@ -1,0 +1,16 @@
+#DCwebhook網址
+DCWebhook=
+#LINE Notify API Key
+LINE_API_KEY=
+#ThingSpeak API 網址
+THINGSPEAK=
+#Telegram Bot Token
+TGBOT=
+#Telegram 頻道id
+TGCHATID=
+#MQTT網址
+MQTTIP=
+#MQTT帳號
+MQTTACC=
+#MQTT密碼
+MQTTPASS=
